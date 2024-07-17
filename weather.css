@@ -8,7 +8,7 @@
       margin: 0;
     }
 
-    #weather-container {
+    .weather-container {
       background-color: white;
       padding: 40px;
       border-radius: 10px;
@@ -24,7 +24,7 @@
       color: #333;
     }
 
-    #city-input {
+    .city-input {
       padding: 10px;
       font-size: 16px;
       border: 1px solid #ccc;
@@ -43,7 +43,7 @@
       cursor: pointer;
     }
 
-    #search-button:hover {
+    .search-button:hover {
       background-color: #0056b3;
     }
 
